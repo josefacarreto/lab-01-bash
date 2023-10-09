@@ -1,1 +1,37 @@
+Question 1: Open your terminal and start by displaying the current working directory
 
+Question 2: List all files and directory in your directory.
+
+Question 3: Navigate to your home directory.
+
+Question 4: Create a new directory named "documents" in your home directory.
+
+Question 5: Change yoyur current directory to the "documents" directory.
+
+Question 6: Create a new file named "report.txt" in the "documents" directory.
+
+Question 7: Display the contents of the "report.text" file.
+
+Question 8: Append the text "This is a sample report." to the "report.text" file.
+
+Question 9: List all files and directories in the "documents" directory.
+
+Question 10: Rename the "report.txt" file to "monthly_report.text" within the "documents" directory.
+
+Question 11: Move the "monthly_report.txt" file into the "backup" directory.
+
+Question 12: Change your current directory back to your home directory 
+
+Question 13: Display the full path to the "backup" directory.
+
+Question 14: List all files and directories in the "backup" directory using an absolute path.
+
+Question 15: Delete the "backup" directory and its contents.
+
+Question 16: Search for all files in your home directory that contain the word "important."
+
+Question 17: Display the first 5 lines of the "monthly_report.txt" file.
+
+Question 18: Count the number of files and directories in your home directory.
+
+Question 19: Logout of your current terminal session.
